@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1dd4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2018-11-23T05:00:09.087-06:00
+  initializedAtString: 2018-11-22T21:19:46.310-06:00
+  log:
+  - commitID: 4e58bb5e2ab4abea07238ebd80e35ec8bf843828
+    mergeA: 
+    mergeB: 
+    authorName: "Erick D\xE1vila"
+    authorEmail: erick.e.davila@gmail.com
+    commitEmail: erick.e.davila@gmail.com
+    commitName: "Erick D\xE1vila"
+    summary: Initial commit
+    description: Initial commit
+    timeString: 2018-11-22T21:19:45.000-06:00
+    commitTimeString: 2018-11-22T21:19:45.000-06:00
+    changes:
+    - path: .gitattributes
+      fullPath: /Users/erickneur/Developer/Unity/Battle Royale/.gitattributes
+      projectPath: .gitattributes
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: .gitignore
+      fullPath: /Users/erickneur/Developer/Unity/Battle Royale/.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/.gitignore
+      fullPath: /Users/erickneur/Developer/Unity/Battle Royale/Assets/.gitignore
+      projectPath: Assets/.gitignore
+      originalPath: 
+      status: 4
+      staged: 0
